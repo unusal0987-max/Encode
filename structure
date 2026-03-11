@@ -1,0 +1,6 @@
+project-flask
+│
+├── app.py
+├── requirements.txt
+└── templates
+    └── index.html
